@@ -12,8 +12,6 @@
 /etc/sensor/jxf22-t31.bin
 /etc/sensor/jxf23.yaml
 /etc/sensor/jxf23-t31.bin
-/etc/sensor/jxf37.yaml
-/etc/sensor/jxf37-t31.bin
 /etc/sensor/jxh42.yaml
 /etc/sensor/jxh42-t31.bin
 /etc/sensor/jxh62.yaml
@@ -62,7 +60,6 @@
 /lib/modules/3.10.14__isvp_swan_1.0__/ingenic/sensor_gc2083_t31.ko
 /lib/modules/3.10.14__isvp_swan_1.0__/ingenic/sensor_gc4023_t31.ko
 /lib/modules/3.10.14__isvp_swan_1.0__/ingenic/sensor_imx327_t31.ko
-/lib/modules/3.10.14__isvp_swan_1.0__/ingenic/sensor_jxf37_t31.ko
 /lib/modules/3.10.14__isvp_swan_1.0__/ingenic/sensor_jxh62_t31.ko
 /lib/modules/3.10.14__isvp_swan_1.0__/ingenic/sensor_jxh63_t31.ko
 /lib/modules/3.10.14__isvp_swan_1.0__/ingenic/sensor_jxq03_t31.ko
